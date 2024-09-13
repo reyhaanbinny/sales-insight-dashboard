@@ -10,9 +10,11 @@ Welcome to my Sales Insights Dashboard project! This dashboard was built using P
 - Sales performance trends over time
 - Breakdown by product categories, regions, and customer demographics
 - Interactive filters for deep data exploration
-
+****Sales Overview:**
 ![Dashboard Screenshot](./images/SalesOverview.jpg)
+**Customer Details:**
 ![Dashboard Screenshot](./images/ProductDetails.jpg)
+**Product Details:**
 ![Dashboard Screenshot](./images/CustomerDetails.jpg)
 
 
