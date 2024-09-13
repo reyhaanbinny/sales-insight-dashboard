@@ -12,6 +12,9 @@ Welcome to my Sales Insights Dashboard project! This dashboard was built using P
 - Interactive filters for deep data exploration
 
 ![Dashboard Screenshot](./images/SalesOverview.jpg)
+![Dashboard Screenshot](./images/ProductDetails.jpg)
+![Dashboard Screenshot](./images/CustomerDetails.jpg)
+
 
 ## SQL Queries Used
 - SQL queries were used to extract and clean data from the AdventureWorks Data Warehouse.
