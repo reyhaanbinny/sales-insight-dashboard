@@ -18,7 +18,7 @@ Welcome to my Sales Insights Dashboard project! This dashboard was built using P
 - [View SQL Queries](./sql/sales_queries.sql)
 
 ## Project Files
-- Download the Power BI Dashboard: [sales_insight_dashboard.pbix](./files/sales_insight_project.pbix)
+- Download the Power BI Dashboard: [sales_insight_dashboard.pbix](Sales insights Project.pbix)
 
 ## Contact
 Feel free to reach out if you have any questions or feedback!
