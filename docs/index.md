@@ -11,7 +11,7 @@ Welcome to my Sales Insights Dashboard project! This dashboard was built using P
 - Breakdown by product categories, regions, and customer demographics
 - Interactive filters for deep data exploration
 
-![Dashboard Screenshot](./images/SalesOverview.jpeg)
+![Dashboard Screenshot](./images/SalesOverview.jpg)
 
 ## SQL Queries Used
 - SQL queries were used to extract and clean data from the AdventureWorks Data Warehouse.
