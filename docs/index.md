@@ -15,7 +15,7 @@ Welcome to my Sales Insights Dashboard project! This dashboard was built using P
 
 ## SQL Queries Used
 - SQL queries were used to extract and clean data from the AdventureWorks Data Warehouse.
-- [View SQL Queries] (./sql/DIM_Calendar(SQL_Script).sql)
+- [View SQL Queries](./sql/DIM_Calendar.sql)
 - [](./sql/DIM_Customers(SQL Script).sql)
 - (./sql/DIM_Products(SQL Script).sql)
 - (./sql/FACT_InternetSales(SQL Script).sql
