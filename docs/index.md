@@ -21,7 +21,7 @@ Welcome to my Sales Insights Dashboard project! This dashboard was built using P
 - (./sql/FACT_InternetSales(SQL Script).sql
 
 ## Project Files
-- Download the Power BI Dashboard: [Sales Insights Project.pbix](./files/Sales_Insights_Project.pbix)
+- Download the Power BI Dashboard: [Sales Insights Project.pbix](./files/Sales_Insights_project.pbix)
 
 ## Contact
 Feel free to reach out if you have any questions or feedback!
