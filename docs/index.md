@@ -56,7 +56,7 @@ Enables business users to customize their view and focus on specific areas of in
 
 ## SQL Queries Used
 - SQL queries were used to extract and clean data from the AdventureWorks Data Warehouse.
-- [View SQL Queries](.docs/sql/)
+- [View SQL Queries](./sql/)
 
 ## Project Files
 - Download the Power BI Dashboard: [Sales Insights Project.pbix](./files/Sales_Insights_project.pbix)
