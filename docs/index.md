@@ -18,10 +18,10 @@ Welcome to my Sales Insights Dashboard project! This dashboard was built using P
 <br>
 
 **Customer Details:**
-![Dashboard Screenshot](./images/ProductDetails.jpg)
+![Dashboard Screenshot](./images/CustomerDetails.jpg)
 
 <br>**Product Details:**
-![Dashboard Screenshot](./images/CustomerDetails.jpg)
+![Dashboard Screenshot](./images/ProductDetails.jpg)
 
 
 ## SQL Queries Used
