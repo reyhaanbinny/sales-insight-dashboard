@@ -14,8 +14,10 @@ Welcome to my Sales Insights Dashboard project! This dashboard was built using P
 ![Dashboard Screenshot](./images/SalesOverview.jpg)
 
 <br>
+
 **Customer Details:**
 ![Dashboard Screenshot](./images/ProductDetails.jpg)
+
 <br>**Product Details:**
 ![Dashboard Screenshot](./images/CustomerDetails.jpg)
 
